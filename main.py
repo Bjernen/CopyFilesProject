@@ -1,7 +1,6 @@
 import shutil
 import os
 
-
 # Directory you wish to copy From.
 direct_to_copy = "MainFolder"
 # TARGET location of the backed up files.
@@ -19,11 +18,10 @@ for name in files_and_dirs:
 
     # Checks if it is a file or a directory. If a directory it is required to use copytree().
     if os.path.isdir(source_path):
-        # Use shutil.copytree for directories.
+        # shutil.copytree for directories.
         try:
             shutil.copytree(source_path, destination_path)
         except FileExistsError as e:
             print(f"Directory {destination_path} already exists. Error: {e}")
     else:
-        # Use shutil.copy2 for files.
-        shutil.copy2(source_path, destination_path)
+        shutil.copy2(source_path, destination_path)  # Use shutil.copy2 for files.
