@@ -1,32 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e8c8c66-cc67-4142-8895-eb3cb40567f9" name="Changes" comment="" />
+    <list default="true" id="3e8c8c66-cc67-4142-8895-eb3cb40567f9" name="Changes" comment="Added README.md">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
   <component name="ProjectId" id="2dwYfipDJqPHiDbTud54T73BpjF" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
   <component name="RunManager">
@@ -69,17 +86,116 @@
       <option name="presentableId" value="Default" />
       <updated>1710920712896</updated>
     </task>
+    <task id="LOCAL-00001" summary="Test .txt files for testing copying features.">
+      <option name="closed" value="true" />
+      <created>1710921094197</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710921094197</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Started Project">
+      <option name="closed" value="true" />
+      <created>1710921374364</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710921374364</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Ignored Files">
+      <option name="closed" value="true" />
+      <created>1710921393445</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710921393445</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added main.py">
+      <option name="closed" value="true" />
+      <created>1710921407394</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710921407394</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added main.py">
+      <option name="closed" value="true" />
+      <created>1710921481751</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710921481751</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Folder for backup files.">
+      <option name="closed" value="true" />
+      <created>1710921767945</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710921767945</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added variables to easy change source and target folders.&#10;Added for loop to loop through all files in a folder.">
+      <option name="closed" value="true" />
+      <created>1710923840788</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710923840788</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Made the program able to copy subdirectories.&#10;Program checks if target destination already exists.">
+      <option name="closed" value="true" />
+      <created>1710925597096</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710925597096</updated>
+    </task>
+    <task id="LOCAL-00009" summary="File for testing copy features in a subfolder.">
+      <option name="closed" value="true" />
+      <created>1710925629914</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1710925629914</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added README.md">
+      <option name="closed" value="true" />
+      <created>1710926120524</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1710926120524</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added README.md">
+      <option name="closed" value="true" />
+      <created>1710926537925</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1710926537925</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added README.md">
+      <option name="closed" value="true" />
+      <created>1710926570239</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1710926570239</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Test .txt files for testing copying features." />
+    <MESSAGE value="Started Project" />
+    <MESSAGE value="Ignored Files" />
+    <MESSAGE value="Added main.py" />
+    <MESSAGE value="Folder for backup files." />
+    <MESSAGE value="Added variables to easy change source and target folders.&#10;Added for loop to loop through all files in a folder." />
+    <MESSAGE value="Made the program able to copy subdirectories.&#10;Program checks if target destination already exists." />
+    <MESSAGE value="File for testing copy features in a subfolder." />
+    <MESSAGE value="Added README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added README.md" />
   </component>
 </project>
