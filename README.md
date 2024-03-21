@@ -5,7 +5,7 @@ To change the folder you wish to create a backup from, simply modify this line:
 
 direct_to_copy = **"MainFolder"**
 
-To specify a new storage location for your recently uploaded/backed up files, modify the following line:
+To specify a new storage location for your recently uploaded/backed up files, simply modify the bold part in following line:
 
  destination_direct = **"BackupFolder"**
 
