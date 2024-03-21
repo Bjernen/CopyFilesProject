@@ -7,7 +7,6 @@
     <list default="true" id="3e8c8c66-cc67-4142-8895-eb3cb40567f9" name="Changes" comment="Update README.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tkinter Project/tkinter_backup.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tkinter Project/tkinter_backup.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -405,7 +404,31 @@
       <option name="project" value="LOCAL" />
       <updated>1711019449143</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Added more comments, and made them more readable.">
+      <option name="closed" value="true" />
+      <created>1711022015269</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1711022015269</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Update README.md">
+      <option name="closed" value="true" />
+      <created>1711022042207</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1711022042207</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Update README.md">
+      <option name="closed" value="true" />
+      <created>1711022048383</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1711022048383</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -424,6 +447,7 @@
     <MESSAGE value="No longer in use." />
     <MESSAGE value="Added 2nd line." />
     <MESSAGE value="Recreated backup terminal program in Tkinter with a functional UI. &#10;This version has added features such as zipping files." />
+    <MESSAGE value="Added more comments, and made them more readable." />
     <MESSAGE value="Update README.md" />
     <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
   </component>
