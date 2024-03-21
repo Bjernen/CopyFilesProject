@@ -14,5 +14,7 @@ To specify a new storage location for your recently uploaded/backed up files, mo
 ## Tkinter Backup Project
 ### Location: Tkinter Project/tkinter_backup.py
 
-This app features a user-friendly interface, making it easier to get around and do what you need to do. It comes packed with handy tools, like the ability to zip files. Just pick the folder you want to back up and where you'd like the backup to go. Then, hit the 'Engage!' button to start.
+This app features a user-friendly interface, making it easier to get around and do what you need to do. It comes packed with handy tools, like the ability to zip files. Just pick the folder you want to back up and where you'd like the backup to go. 
+
+Then, hit the 'Engage!' button to start.
 
