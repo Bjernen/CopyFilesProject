@@ -7,6 +7,7 @@
     <list default="true" id="3e8c8c66-cc67-4142-8895-eb3cb40567f9" name="Changes" comment="Update README.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tkinter Project/tkinter_backup.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tkinter Project/tkinter_backup.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -428,7 +429,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711022048383</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Update README.md">
+      <option name="closed" value="true" />
+      <created>1711022168585</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1711022168585</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Update README.md">
+      <option name="closed" value="true" />
+      <created>1711022173335</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1711022173335</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -1,8 +1,8 @@
-import tkinter # Used to create the GUI
+import tkinter  # Used to create the GUI
 from tkinter import ttk
 from tkinter import messagebox
 import os
-import shutil # Offers support for copying and moving files
+import shutil  # Offers support for copying and moving files
 from tkinter.filedialog import askdirectory  # Allows the user to click a button to specify location and destination.
 
 
@@ -62,8 +62,8 @@ def select_destination_directory():
 window = tkinter.Tk()
 window.title("Official Backup Program of Deep Space 9 - Made by Quark!")
 
-frame = tkinter.Frame(window)
-frame.pack()
+frame = tkinter.Frame(window)  # Responsible for the frame.
+frame.pack()  # Sizes the frame
 
 # User Info Frame.
 user_info_frame = tkinter.LabelFrame(frame, text="Required Information: ")
@@ -100,6 +100,5 @@ backup_button.grid(row=2, column=0, pady=20)
 # Adjust padding for all child widgets.
 for widget in user_info_frame.winfo_children():
     widget.grid_configure(padx=50, pady=5)
-
 
 window.mainloop()
