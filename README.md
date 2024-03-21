@@ -1,4 +1,4 @@
-# Terminal Backup Project - 
+# Terminal Backup Project\
 ### Location: main.py
 
 To change the folder you wish to create a backup from, change this line: 
@@ -10,7 +10,7 @@ To specify a new storage location for your recently uploaded/backed up files, mo
 
 ----
 
-# Tkinter Back Project
+# Tkinter Back Project\
 ### Location: /Tkinter Project/tkinter_backup.py
 
 This program is easier to navigate due to having an interface.\
