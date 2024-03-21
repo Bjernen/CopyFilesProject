@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e8c8c66-cc67-4142-8895-eb3cb40567f9" name="Changes" comment="Ignored files">
-      <change afterPath="$PROJECT_DIR$/Tkinter Project/OLD_tkinter_UI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tkinter Project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tkinter Project/tkinter_backup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config_file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/success.gif" afterDir="false" />
+    <list default="true" id="3e8c8c66-cc67-4142-8895-eb3cb40567f9" name="Changes" comment="Update README.md">
+      <change afterPath="$PROJECT_DIR$/BackupFolder.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackupFolder/Subfolder_01/TestFile_03" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackupFolder/TestFile_01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackupFolder/TestFile_02.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -315,7 +314,55 @@
       <option name="project" value="LOCAL" />
       <updated>1710926753438</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Edited print statements">
+      <option name="closed" value="true" />
+      <created>1711014498917</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1711014498917</updated>
+    </task>
+    <task id="LOCAL-00016" summary="No longer in use.">
+      <option name="closed" value="true" />
+      <created>1711014536269</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1711014536269</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Added 2nd line.">
+      <option name="closed" value="true" />
+      <created>1711014569152</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1711014569152</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Recreated backup terminal program in Tkinter with a functional UI. &#10;This version has added features such as zipping files.">
+      <option name="closed" value="true" />
+      <created>1711014686065</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1711014686065</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Recreated backup terminal program in Tkinter with a functional UI. &#10;This version has added features such as zipping files.">
+      <option name="closed" value="true" />
+      <created>1711014693016</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1711014693016</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Update README.md">
+      <option name="closed" value="true" />
+      <created>1711019056451</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1711019056451</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -330,6 +377,11 @@
     <MESSAGE value="File for testing copy features in a subfolder." />
     <MESSAGE value="Added README.md" />
     <MESSAGE value="Ignored files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ignored files" />
+    <MESSAGE value="Edited print statements" />
+    <MESSAGE value="No longer in use." />
+    <MESSAGE value="Added 2nd line." />
+    <MESSAGE value="Recreated backup terminal program in Tkinter with a functional UI. &#10;This version has added features such as zipping files." />
+    <MESSAGE value="Update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
   </component>
 </project>
