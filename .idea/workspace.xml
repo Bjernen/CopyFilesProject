@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e8c8c66-cc67-4142-8895-eb3cb40567f9" name="Changes" comment="Update README.md">
-      <change afterPath="$PROJECT_DIR$/BackupFolder.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BackupFolder/Subfolder_01/TestFile_03" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BackupFolder/TestFile_01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BackupFolder/TestFile_02.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +23,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Bjernen"
+  }
+}]]></component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="593c89b9-0b3f-4297-8e73-d590f758c635" />
+        <option name="url" value="git@github.com:/Bjernen/CopyFilesProject.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -362,7 +371,31 @@
       <option name="project" value="LOCAL" />
       <updated>1711019056451</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Update README.md">
+      <option name="closed" value="true" />
+      <created>1711019246534</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1711019246534</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Update README.md">
+      <option name="closed" value="true" />
+      <created>1711019275276</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1711019275276</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Update README.md">
+      <option name="closed" value="true" />
+      <created>1711019338094</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1711019338094</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
